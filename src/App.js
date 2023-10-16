@@ -1,12 +1,11 @@
 
-import LandingPage from './pages/landingPage';
 import Navbar from './components/NavBar/navbar';
-
+import Intro from './components/Intro/intro'
 function App() {
   return (
     <div>
       <Navbar />
-      {/* <LandingPage /> */}
+      <Intro/>
     </div>
   );
 }
