@@ -5,7 +5,8 @@
     text-decoration: none;
     background: transparent;
     font-family: 'Poppins', sans-serif;
-
+    /* border: 2px solid white; */
+    
 
 }
 
@@ -15,6 +16,6 @@ body{
     color: white;
     overflow: hidden;
     overflow-y: scroll;
-    /* border: 2px solid red; */
+    border: 2px solid red;
 }
 
