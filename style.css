@@ -5,17 +5,14 @@
     text-decoration: none;
     background: transparent;
     font-family: 'Poppins', sans-serif;
-    /* border: 2px solid white; */
-    
-
+    border: 2px solid white;
 }
 
 body{
-
     background: rgb(30, 30, 30);
     color: white;
     overflow: hidden;
     overflow-y: scroll;
-    border: 2px solid red;
+    border: 5px solid yellow;
 }
 
