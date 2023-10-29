@@ -5,7 +5,7 @@
     margin:0 auto;
     overflow: hidden;
     position: relative;
-    border: 2px solid white;
+    /* border: 2px solid white; */
 }
 
 .bg{
@@ -14,7 +14,8 @@
     right: 0;
     z-index: -1;
     object-fit: cover;
-    height: 100vh;
+    height: 71vh;
+    padding-right: 4rem;
 }
 .introContent{
     height: 100vh;

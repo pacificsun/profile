@@ -2,6 +2,7 @@ import React from "react";
 
 import "./intro.css";
 import bg from '../../assets/image.png'
+import noFace from '../../assets/noface.png'
 import { Link } from "react-scroll";
 
 import btnImg from '../../assets/hireme.png'
@@ -19,7 +20,7 @@ const Intro = () => {
         <button className="btn"><img src={btnImg} alt="Hireme" className="btnImg"/>Hire me</button>
         </Link>
       </div>
-      <img src={bg} alt="Profile" className="bg" />
+      <img src={noFace} alt="Profile" className="bg" />
     </section>
   );
 };
