@@ -3,7 +3,7 @@ import { Link } from 'react-scroll'
 
 import "./navbar.css";
 
-import logo from '../../assets/logo.png'
+
 import s from  '../../assets/s.png'
 import contactImg from '../../assets/contact.png'
 

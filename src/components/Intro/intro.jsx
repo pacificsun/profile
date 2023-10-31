@@ -1,7 +1,6 @@
 import React from "react";
 
 import "./intro.css";
-import bg from '../../assets/image.png'
 import noFace from '../../assets/noface.png'
 import { Link } from "react-scroll";
 
@@ -17,7 +16,7 @@ const Intro = () => {
         </span> 
         <p className="introPara">I'm a CS masters student also skilled software engineer with fullstack experience</p>
         <Link>
-        <button className="btn"><img src={btnImg} alt="Hireme" className="btnImg"/>Hire me</button>
+        <button className="btn"><img src={btnImg} alt="Hireme" className="btnImg"/> Resume</button>
         </Link>
       </div>
       <img src={noFace} alt="Profile" className="bg" />
