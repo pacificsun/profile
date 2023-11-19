@@ -9,7 +9,7 @@
     text-align: center;
     margin:0 auto ;
 
-    border: 2px solid pink;
+    /* border: 2px solid pink; */
 }
 
 .skillTitle{
@@ -37,7 +37,7 @@
     margin: 1rem;
     padding: 1.5rem 2rem;
     border-radius: 0.5rem;
-    border: 2px solid maroon;
+    /* border: 2px solid maroon; */
     background-color: rgb(50, 50, 50);
     
 }
